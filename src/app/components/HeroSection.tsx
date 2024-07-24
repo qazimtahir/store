@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const HeroSection = () => {
   return (
-    <div className="flex max-w-full pt-6 p-10">
+    <div className="flex max-w-full pt-6 p-10 bg-black">
       <div className="items-center justify-center content-center pr-32 pb-4">
         <h1 className=" text-5xl pb-6 text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-blue-500">
           Realistic Led <span className="font-extrabold">TV Screen</span>
