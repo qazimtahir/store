@@ -15,11 +15,11 @@ https://github.com/qazimtahir/
 VS Code - NODE JS - TypeScript - Next JS Sanity - Tailwind CSS
 
 ## Screenshots
-![App Screenshot](https://github.com/qazimtahir/mockup-react-thinking/blob/main/mockUp.png)
+![App Screenshot](https://github.com/qazimtahir/store/blob/main/public/Screenshot%20from%202024-07-24%2019-06-56.png)
 
-![App Screenshot](https://github.com/qazimtahir/mockup-react-thinking/blob/main/Login%20Screen.png)
+![App Screenshot](https://github.com/qazimtahir/store/blob/main/public/Screenshot%20from%202024-07-24%2019-07-06.png)
 
-![App Screenshot](https://github.com/qazimtahir/mockup-react-thinking/blob/main/Login%20Screen.png)
+![App Screenshot](https://github.com/qazimtahir/store/blob/main/public/Screenshot%20from%202024-07-24%2019-07-12.png)
 
 ## 🚀 About Me
 
